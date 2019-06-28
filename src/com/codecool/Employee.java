@@ -1,7 +1,7 @@
 package com.codecool;
 
 public abstract class Employee {
-    private int salary;
+    private float salary;
     private String name;
     private int birthDate;
 }
