@@ -1,4 +1,4 @@
 package com.codecool;
 
-public class Cook {
+public class Cook extends Employee{
 }
