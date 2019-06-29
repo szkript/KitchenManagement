@@ -1,5 +1,6 @@
 package com.codecool;
 
-public class Kitchen {
+public abstract class Kitchen {
+    private Employee employee;
 
 }
