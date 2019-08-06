@@ -2,46 +2,12 @@
 <Diagram>
   <ID>JAVA</ID>
   <OriginalElement>com.codecool.Chef</OriginalElement>
-  <nodes>
-    <node x="139.5" y="99.0">com.codecool.Employee</node>
-    <node x="0.0" y="314.0">com.codecool.Main</node>
-    <node x="253.0" y="242.0">com.codecool.Chef</node>
-    <node x="159.0" y="242.0">com.codecool.Cook</node>
-    <node x="0.0" y="242.0">com.codecool.KitchenHelper</node>
-    <node x="119.0" y="0.0">com.codecool.Kitchen</node>
-  </nodes>
+  <nodes />
   <notes />
-  <edges>
-    <edge source="com.codecool.Chef" target="com.codecool.Employee">
-      <point x="0.0" y="-13.5" />
-      <point x="290.0" y="217.0" />
-      <point x="233.66666666666666" y="217.0" />
-      <point x="37.66666666666666" y="46.5" />
-    </edge>
-    <edge source="com.codecool.KitchenHelper" target="com.codecool.Employee">
-      <point x="0.0" y="-13.5" />
-      <point x="69.5" y="217.0" />
-      <point x="158.33333333333334" y="217.0" />
-      <point x="-37.66666666666666" y="46.5" />
-    </edge>
-    <edge source="com.codecool.Cook" target="com.codecool.Employee">
-      <point x="0.0" y="-13.5" />
-      <point x="0.0" y="46.5" />
-    </edge>
-    <edge source="com.codecool.Employee" target="com.codecool.Kitchen">
-      <point x="0.0" y="-46.5" />
-      <point x="0.0" y="24.5" />
-    </edge>
-  </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="164.0" y="288.0" />
-  <SelectedNodes>
-    <node>com.codecool.Kitchen</node>
-  </SelectedNodes>
-  <Categories>
-    <Category>Fields</Category>
-    <Category>Methods</Category>
-    <Category>Properties</Category>
-  </Categories>
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="813.5" y="442.5" />
+  <SelectedNodes />
+  <Categories />
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>

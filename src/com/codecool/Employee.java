@@ -13,19 +13,22 @@ abstract class Employee {
         this.birthDate = birthDate;
     }
 
+    public Employee() {
+    }
+
     private double createTaxReport() {
         return this.salary * 0.99;
     }
 
-    public double getSalary() {
-        return salary;
+    public void setSalary(double salary) {
+        this.salary = salary;
     }
 
-    public String getName() {
-        return name;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public Date getBirthDate() {
-        return birthDate;
+    public void setBirthDate(Date birthDate) {
+        this.birthDate = birthDate;
     }
 }
